@@ -70,7 +70,7 @@
 
 <br />
 
-<h3>Connect with me</h3>
+<h3>Contanct</h3>
 <p>
   <a href="https://linkedin.com/in/thanakorn-boonsa-ard">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
