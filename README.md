@@ -53,15 +53,6 @@
   <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
 </p>
 
-<br />
-
-<h3>GitHub Analytics</h3>
-<p>
-  <img src="https://github-readme-stats.vercel.app/api?username=bobthanakorn&show_icons=true&theme=transparent&hide_border=true&title_color=3776AB&icon_color=3776AB" alt="bobthanakorn's GitHub stats" />
-</p>
-
-<br />
-
 <h3>Recent Experience & Achievements</h3>
 <p><b>Data Scientist Trainee</b> @ T.C.C. Technology (Present) - Developing internal AI platforms using Next.js, OpenAI Agent SDK, and FastAPI.</p>
 <p><b>Data Engineer Intern</b> @ GoPomelo (Jan - May 2026) - Developed automated ELT pipelines on GCP using Fivetran, BigQuery, and Dataform.</p>
