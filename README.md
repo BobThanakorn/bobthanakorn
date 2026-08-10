@@ -6,7 +6,7 @@
   </a>
 </p>
 
-<p>Recent graduate with hands-on experience in AI and Data Engineering. Currently developing AI platforms and previously built automated GCP ELT pipelines. Passionate about problem-solving, proven through Super AI Engineer Season 6 and securing 1st Runner-Up at the Microsoft AI Hackathon.</p>
+<p>Recent graduate from Computing, College of Computing, Prince of Songkla University with hands-on experience in AI and Data Engineering. Currently developing AI platforms and previously built automated GCP ELT pipelines. Passionate about problem-solving, proven through Super AI Engineer Season 6 and securing 1st Runner-Up at the Microsoft AI Hackathon.</p>
 
 <br />
 
