@@ -1,7 +1,11 @@
-<div align="center">
-
 <h2>Thanakorn Boonsa-ard</h2>
-<p>AI & Data Engineer</p>
+
+<p>
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=18&pause=1000&color=3776AB&width=600&lines=AI+%26+Data+Engineer;Data+Scientist+Trainee;AI+%26+Data+Science+Graduate" alt="Typing SVG" />
+  </a>
+</p>
+
 <p>Recent graduate with hands-on experience in AI and Data Engineering. Currently developing AI platforms and previously built automated GCP ELT pipelines. Passionate about problem-solving, proven through Super AI Engineer Season 6 and securing 1st Runner-Up at the Microsoft AI Hackathon.</p>
 
 <br />
@@ -34,24 +38,30 @@
 
 <br />
 
+<h3>GitHub Analytics</h3>
+<p>
+  <img src="https://github-readme-stats.vercel.app/api?username=bobthanakorn&show_icons=true&theme=transparent&hide_border=true&title_color=3776AB&icon_color=3776AB" alt="bobthanakorn's GitHub stats" />
+</p>
+
+<br />
+
 <h3>Recent Experience & Achievements</h3>
 <p><b>Data Scientist Trainee</b> @ T.C.C. Technology (Present) - Developing internal AI platforms using Next.js, OpenAI Agent SDK, and FastAPI.</p>
 <p><b>Data Engineer Intern</b> @ GoPomelo (Jan - May 2026) - Developed automated ELT pipelines on GCP using Fivetran, BigQuery, and Dataform.</p>
 <p><b>1st Runner-Up</b> @ Microsoft AI Hackathon (2026) - Developed a RAG-powered Wellness Tourism Web Application.</p>
 <p><b>Super AI Engineer Season 6</b> (2026) - Selected as one of the top 150 participants from over 10,000 applicants.</p>
 
-<br /><br />
+<br />
 
 <h3>Connect with me</h3>
-
-<a href="https://github.com/bobthanakorn">
-  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
-</a>
-<a href="https://linkedin.com/in/thanakorn-boonsa-ard">
-  <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
-</a>
-<a href="mailto:thanakornboonsaard@gmail.com">
-  <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
-</a>
-
-</div>
+<p>
+  <a href="https://github.com/bobthanakorn">
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
+  </a>
+  <a href="https://linkedin.com/in/thanakorn-boonsa-ard">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
+  <a href="mailto:thanakornboonsaard@gmail.com">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+  </a>
+</p>
