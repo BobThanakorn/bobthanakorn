@@ -84,6 +84,10 @@
     <img src="https://img.shields.io/badge/Live_Site-000000?style=for-the-badge&logo=vercel&logoColor=white" alt="GuWork Live Site" />
   </a>
 </p>
+<p>
+  <b>AndaWay (WIP)</b>
+  — A full-stack web application for personalized travel planning in Phuket, using React, TypeScript, Gemini API, and Supabase.
+</p>
 
 <br />
 
