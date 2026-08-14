@@ -61,12 +61,41 @@
 
 <br />
 
-<h3>Contanct</h3>
+<h3>Personal Project</h3>
+<p>
+  <b><a href="https://bobthanakorn-portolio.vercel.app">Personal Portfolio</a></b>
+  — Data &amp; AI engineering portfolio covering projects, awards, and experience.
+  Built with Next.js, TypeScript, and Tailwind CSS.
+</p>
+<p>
+  <a href="https://bobthanakorn-portolio.vercel.app">
+    <img src="https://img.shields.io/badge/Live_Site-000000?style=for-the-badge&logo=vercel&logoColor=white" alt="Live Site" />
+  </a>
+  <a href="https://github.com/BobThanakorn/BobThanakorn-Portfolio">
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
+  </a>
+</p>
+<p>
+  <b><a href="https://guwork.vercel.app/">GuWork</a></b>
+  — A Thai platform that brings internship and hackathon opportunities together for students in technology fields.
+</p>
+<p>
+  <a href="https://guwork.vercel.app/">
+    <img src="https://img.shields.io/badge/Live_Site-000000?style=for-the-badge&logo=vercel&logoColor=white" alt="GuWork Live Site" />
+  </a>
+</p>
+
+<br />
+
+<h3>Contact</h3>
 <p>
   <a href="https://linkedin.com/in/thanakorn-boonsa-ard">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
   <a href="mailto:thanakornboonsaard@gmail.com">
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+  </a>
+  <a href="https://bobthanakorn-portolio.vercel.app">
+    <img src="https://img.shields.io/badge/Portfolio-3776AB?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio" />
   </a>
 </p>
