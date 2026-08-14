@@ -85,8 +85,16 @@
   </a>
 </p>
 <p>
-  <b>AndaWay (WIP)</b>
+  <b><a href="https://andaway-v-2.vercel.app">AndaWay</a> (WIP)</b>
   — A full-stack web application for personalized travel planning in Phuket, using React, TypeScript, Gemini API, and Supabase.
+</p>
+<p>
+  <a href="https://andaway-v-2.vercel.app">
+    <img src="https://img.shields.io/badge/Live_Site-000000?style=for-the-badge&logo=vercel&logoColor=white" alt="AndaWay Live Site" />
+  </a>
+  <a href="https://github.com/bobboolean/AndaWay-V.2">
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="AndaWay GitHub" />
+  </a>
 </p>
 
 <br />
