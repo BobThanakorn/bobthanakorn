@@ -54,7 +54,7 @@
 </p>
 
 <h3>Recent Experience & Achievements</h3>
-<p><b>Data Scientist Trainee</b> @ T.C.C. Technology (Present) - Developing internal AI platforms using Next.js, OpenAI Agent SDK, and FastAPI.</p>
+<p><b>Data Scientist Trainee</b> @ T.C.C. Technology (June - August 2026) - Developing internal AI platforms using Next.js, OpenAI Agent SDK, and FastAPI.</p>
 <p><b>Data Engineer Intern</b> @ GoPomelo (Jan - May 2026) - Developed automated ELT pipelines on GCP using Fivetran, BigQuery, and Dataform.</p>
 <p><b>1st Runner-Up</b> @ Microsoft AI Hackathon (2026) - Developed a RAG-powered Wellness Tourism Web Application.</p>
 <p><b>Super AI Engineer Season 6</b> (2026) - Selected as one of the top 150 participants from over 10,000 applicants.</p>
